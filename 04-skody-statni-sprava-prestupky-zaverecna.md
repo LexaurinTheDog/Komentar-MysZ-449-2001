@@ -144,6 +144,11 @@ Výkladovou otázkou je, zda nepřijetí „přiměřeného opatření" mimo př
 
 **Odst. 3 — odpovědnost státu.** Škody způsobené zvěří, jejíž početní stavy nelze lovem snižovat (zejména druhy podle § 2 písm. c)), hradí stát. Poznámka č. 27 odkazuje na zákon č. 115/2000 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými živočichy. Ten se však vztahuje jen na vyjmenované druhy (bobr evropský, vydra říční, los evropský, medvěd hnědý, rys ostrovid, vlk obecný) a — podle aktuálního znění — kormorána velkého u škod na rybách v letech 2024–2026, a to na předmětech náhrady vymezených v jeho § 4. U dalších druhů zvěře podle § 2 písm. c) (např. kočka divoká, tetřev, krkavec) je výkladovou otázkou, zda § 54 odst. 3 sám zakládá nárok vůči státu, nebo zda poznámka pod čarou vymezuje rozsah náhrady konečně; poznámka pod čarou sama normativní význam nemá.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3335/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F545953A631105CFC1257E5B0025AB1B?openDocument) — 24. 3. 2015, kat. A
+  > „Ztráta dosud neulovených ryb volně žijících ve vodních tocích způsobená tím, že je zkonzumoval vybraný zvláště chráněný živočich, jehož stavy nelze lovem snižovat, nepředstavuje ani po novele zákona č. 115/2000 Sb. účinné od 14. 4. 2006 snížení majetkového stavu nositele rybářského práva, který ryby k okamžiku jejich ztráty nevlastnil (jejich hodnota netvořila jeho majetkový stav), neboť je ulovením nenabyl do svého vlastnictví"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vlastník lesa uplatní u uživatele honitby náhradu škody okusem srnčí zvěří v mladé smrkové kultuře. Část kultury je oplocena, v neoplocené části je podle šetření poškozeno 0,8 % jedinců ročně, rozmístěných rovnoměrně; v oplocence je díky protrženému pletivu poškozeno 15 % jedinců.
@@ -208,6 +213,11 @@ Před uplatněním nároku je třeba vyloučit všechny výluky § 54; u chrán�
 **3. Dohoda a soudní uplatnění (odst. 3).** Strany se „mají dohodnout". Pokud uživatel honitby škodu **do 60 dnů** od uplatnění a vyčíslení nenahradí ani neuzavře **písemnou dohodu**, může poškozený **ve lhůtě 3 měsíců** podat žalobu. Lhůta 3 měsíců logicky začíná běžet uplynutím 60denní lhůty; podání žaloby před jejím uplynutím není vyloučeno, ale žaloba může být předčasná, pokud by škoda byla v 60 dnech uhrazena. Spory z uzavřené dohody již podléhají obecnému režimu (soud rozhoduje o nároku z dohody; uplatní se obecné promlčení podle občanského zákoníku, zejména § 629 — tříletá lhůta).
 
 **Forma uplatnění.** Zákon formu nepředepisuje; z důvodu prokazatelnosti se doporučuje písemná forma s doručenkou a s přesným popisem místa, rozsahu, druhu zvěře a vyčíslením.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 4682/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4CCEAF98B1C00FE8C1257A75003640B3?openDocument) — 21. 8. 2012, kat. A
+  > „Vznikem škody ve smyslu § 55 odst. 1 písm. a) zákona č. 449/2001 Sb., ve znění pozdějších předpisů, se míní škodná událost, tedy každé jednotlivé škodlivé působení zvěře na zemědělské pozemky, polní plodiny a zemědělské porosty, od níž počíná běžet prekluzivní lhůta k uplatnění nároku u uživatele honitby. Je-li rozsah škody zřejmý okamžitě (např. když porosty byly zcela zničeny nebo byly ztraceny vynaložené náklady), činí prekluzivní lhůta pro vyčíslení výše škody shodně 20 dní počítaných od téhož okamžiku. Projeví-li se poškození plodin až poté, co byla provedena jejich sklizeň (jestliže teprve porovnáním očekávaného výnosu se skutečným lze určit ztrátu), zakládá zákon samostatně běžící lhůtu v délce 15 dnů, jejíž počátek odkládá až k ukončení sklizně (§ 55 odst. 2, věta druhá, zákona)"
 
 #### F. Kazuistika
 

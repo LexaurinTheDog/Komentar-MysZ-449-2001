@@ -687,6 +687,11 @@ Lovecký pes je pojem formální; počty psů určuje vyhláška podle výměry 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [3 Tdo 340/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/125E4BFCC4F73368C1258658001B7F5C?openDocument) — 24. 9. 2020, kat. A
+  > „Neoprávněným lovem ve smyslu skutkové podstaty trestného činu pytláctví podle § 304 tr. zákoníku jsou jednání, která se vymykají zákonným podmínkám lovu podle zákona č. 449/2001 Sb., o myslivosti, ve znění pozdějších předpisů (dále jen "zákon o myslivosti"). Znak „neoprávněně“ je proto nutno vykládat v celém kontextu zákona o myslivosti, tedy nejen s přihlédnutím k ustanovení § 46 a § 48a zákona o myslivosti, ale také k ustanovení § 45 odst. 1 zákona o myslivosti a objektu trestného činu, kterým je ochrana přírody, resp. volně žijící zvěře a ryb, jakož i ochrana práva myslivosti a výkonu rybářského práva. Platí tedy, že i osoba, která dodržela formální náležitosti § 46 odst. 1 zákona o myslivosti (má povolenku k lovu, lovecký lístek, zbrojní průkaz atd.) a loví zvěř v rozporu s výslovným zákazem podle § 45 zákona o myslivosti, jedná nad rámec vydaného povolení, a tedy neoprávněně ve…"
+
 #### Generální klauzule a povaha výčtu (odst. 1 věta první)
 
 Lov smí být prováděn jen způsobem odpovídajícím **zásadám mysliveckým, zásadám ochrany přírody a zásadám ochrany zvířat proti týrání**. Generální klauzule má samostatný normativní význam: i způsob výslovně nevyjmenovaný může být nepřípustný, odporuje-li těmto zásadám (výkladová otázka je, nakolik lze generální klauzuli samostatně sankcionovat; v přestupkovém řízení je třeba konkrétně odůvodnit, které zásadě jednání odporuje). Následující výčet zákazů je pro uvedené způsoby **absolutní**, s výjimkami jen tam, kde je zákon výslovně připouští. Výčet písmen vynechává písmeno „q“ (legislativní zvyklost), nejde o mezeru v textu.
@@ -758,6 +763,11 @@ Porušení zákazů je přestupkem držitele loveckého lístku (§ 63 odst. 2, 
 > (3) Uživatel honitby může povolenku k lovu vydat také k usmrcování živočichů vyžadujících regulaci a umožnit celoroční usmrcování těchto živočichů i jiným osobám oprávněným podle tohoto zákona než myslivecké stráži a mysliveckému hospodáři.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [3 Tdo 340/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/125E4BFCC4F73368C1258658001B7F5C?openDocument) — 24. 9. 2020, kat. A
+  > „Neoprávněným lovem ve smyslu skutkové podstaty trestného činu pytláctví podle § 304 tr. zákoníku jsou jednání, která se vymykají zákonným podmínkám lovu podle zákona č. 449/2001 Sb., o myslivosti, ve znění pozdějších předpisů (dále jen "zákon o myslivosti"). Znak „neoprávněně“ je proto nutno vykládat v celém kontextu zákona o myslivosti, tedy nejen s přihlédnutím k ustanovení § 46 a § 48a zákona o myslivosti, ale také k ustanovení § 45 odst. 1 zákona o myslivosti a objektu trestného činu, kterým je ochrana přírody, resp. volně žijící zvěře a ryb, jakož i ochrana práva myslivosti a výkonu rybářského práva. Platí tedy, že i osoba, která dodržela formální náležitosti § 46 odst. 1 zákona o myslivosti (má povolenku k lovu, lovecký lístek, zbrojní průkaz atd.) a loví zvěř v rozporu s výslovným zákazem podle § 45 zákona o myslivosti, jedná nad rámec vydaného povolení, a tedy neoprávněně ve…"
 
 #### Trojice dokladů (odst. 1)
 
@@ -941,6 +951,11 @@ Povinné pojištění musí mít minimální limity 20 mil. Kč / 500 tis. Kč a
 Ustanovení **definuje neoprávněný lov** jako lov zvěře **bez povinných náležitostí stanovených v § 46** (lovecký lístek, povolenka k lovu, potvrzení o povinném pojištění, u dravce evidenční karta) a výslovně jej **zakazuje**. Na zákaz navazuje přestupek fyzické osoby podle § 63 odst. 1 písm. b) (pokuta do 30 000 Kč, zákaz činnosti do 2 let, zápis do evidence přestupků vedené Rejstříkem trestů, § 63 odst. 3–5) a oprávnění myslivecké stráže osobu zadržet a odejmout jí zbraň a zvěř (§ 14 odst. 1 písm. c) a d)). Pravomocné uznání vinným z neoprávněného lovu vylučuje bezúhonnost (§ 12 odst. 4) a může se promítnout i do posouzení **spolehlivosti** podle § 19 písm. d) bodu 9 zákona o zbraních a střelivu č. 90/2024 Sb. (při spáchání více než 1 takového přestupku v posledních 3 letech). Při neoprávněném lovu zvěře v hodnotě nikoli nepatrné přichází v úvahu trestný čin **pytláctví** (§ 304 trestního zákoníku); přestupkové a trestní řízení se vzájemně vylučují podle obecných pravidel.
 
 *Výkladová otázka:* § 46 odst. 1 ukládá mít doklady **„u sebe“**. Lze se ptát, zda neoprávněně loví i osoba, která oprávnění má (platný lovecký lístek, vydaná povolenka, pojištění), ale doklady při lovu nenese. Doslovný výklad („bez povinných náležitostí stanovených v § 46“) to připouští; účel § 48a (postih lovu bez oprávnění) svědčí spíše pro to, aby šlo nanejvýš o porušení povinnosti doklady nosit a předložit, nikoli o neoprávněný lov. Vzhledem k zásadě výkladu v pochybnostech ve prospěch obviněného je restriktivní výklad přesvědčivější.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [3 Tdo 340/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/125E4BFCC4F73368C1258658001B7F5C?openDocument) — 24. 9. 2020, kat. A
+  > „Neoprávněným lovem ve smyslu skutkové podstaty trestného činu pytláctví podle § 304 tr. zákoníku jsou jednání, která se vymykají zákonným podmínkám lovu podle zákona č. 449/2001 Sb., o myslivosti, ve znění pozdějších předpisů (dále jen "zákon o myslivosti"). Znak „neoprávněně“ je proto nutno vykládat v celém kontextu zákona o myslivosti, tedy nejen s přihlédnutím k ustanovení § 46 a § 48a zákona o myslivosti, ale také k ustanovení § 45 odst. 1 zákona o myslivosti a objektu trestného činu, kterým je ochrana přírody, resp. volně žijící zvěře a ryb, jakož i ochrana práva myslivosti a výkonu rybářského práva. Platí tedy, že i osoba, která dodržela formální náležitosti § 46 odst. 1 zákona o myslivosti (má povolenku k lovu, lovecký lístek, zbrojní průkaz atd.) a loví zvěř v rozporu s výslovným zákazem podle § 45 zákona o myslivosti, jedná nad rámec vydaného povolení, a tedy neoprávněně ve…"
 
 #### F. Kazuistika
 

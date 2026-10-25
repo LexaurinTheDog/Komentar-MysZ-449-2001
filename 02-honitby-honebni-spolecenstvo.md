@@ -394,6 +394,11 @@ O nájmu honitby rozhoduje valná hromada, ledaže tuto působnost výslovně p�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 1510/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BFC1D9BD286ADE13C125882E0015FE70?openDocument) — 2. 2. 2022, kat. A
+  > „Subjektivní lhůta k podání návrhu na vyslovení neplatnosti rozhodnutí valné hromady honebního společenstva počíná členu honebního společenstva běžet od okamžiku, kdy se o obsahu rozhodnutí valné hromady dozvěděl nebo musel dozvědět, bez ohledu na to, zda valná hromada byla svolána v souladu se zákonem nebo stanovami"
+
 #### Svolání (odst. 1)
 
 Valnou hromadu svolává honební starosta „zpravidla jednou ročně"; při jeho nečinnosti ji může svolat místostarosta. **Menšinová práva**: člen nebo členové s nejméně 10 % všech hlasů mohou žádat svolání k projednání navržených záležitostí; starosta musí valnou hromadu svolat do 30 dnů od doručení žádosti, jinak ji mohou svolat sami žadatelé.
